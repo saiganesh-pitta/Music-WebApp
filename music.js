@@ -1,5 +1,5 @@
-let song1= new Audio("songs/song1.mp3");
-let song2= new Audio("songs/song2.mp3");
+let song1= new Audio("https://github.com/saiganesh-pitta/Music-WebApp/songs/song1.mp3");
+let song2= new Audio("https://github.com/saiganesh-pitta/Music-WebApp/songs/song2.mp3");
 let song3= new Audio("songs/song3.mp3");
 let song4= new Audio("songs/song4.mp3");
 let song5= new Audio("songs/song5}.mp3");
