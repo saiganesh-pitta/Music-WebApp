@@ -1,4 +1,4 @@
-let song1= new Audio("http://127.0.0.1:5500/songs/song1.mp3");
+let song1= new Audio("/songs/song1.mp3");
 let song2= new Audio("/songs/song2.mp3");
 let song3= new Audio("songs/song3.mp3");
 let song4= new Audio("songs/song4.mp3");
